@@ -15,7 +15,7 @@ let orderitem01 ={
     Quantity:2,
     Price:50,
 }
-let product_matcha = {
+const product_matcha = {
     ProductName:"Matcha",
     productid:"002",
     Price:50,

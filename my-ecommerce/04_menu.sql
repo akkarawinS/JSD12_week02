@@ -1,6 +1,6 @@
-TRUNCATE TABLE Menu RESTART IDENTITY CASCADE;
+TRUNCATE TABLE menu RESTART IDENTITY CASCADE;
 
-INSERT INTO Menu (item_id, name, description, price, category) VALUES
+INSERT INTO menu (item_id, name, description, price, category) VALUES
 (1, 'Nomsod', 'Fresh milk from roiet.', 30, 'beverage'),
 (2, 'Americano', 'No sugar added.', 50, 'beverage'),
 (3, 'Pure Matcha', 'Pure matcha101%.', 50, 'beverage'),

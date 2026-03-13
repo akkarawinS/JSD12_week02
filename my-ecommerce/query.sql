@@ -5,4 +5,4 @@ SELECT * FROM employee;
 
 SELECT * FROM Ingredients;
 
-SELECT * FROM Menu;
+SELECT * FROM menu;
